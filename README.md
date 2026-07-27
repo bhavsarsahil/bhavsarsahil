@@ -1,7 +1,12 @@
 ## Hi there 👋
 # 💫 About Me:
-I am Sahil Bhavsar, an aspiring Data Analyst currently pursuing an Integrated Master of Computer Applications (IMCA) from Gujarat Technological University (Expected 2027). I am interested in working with data and turning raw data into meaningful insights that support better business decisions. I have basic knowledge of Python, SQL, Excel, and Power BI, and I enjoy analyzing datasets, creating visualizations, and improving my analytical skills through practical projects.
+I am **Sahil Bhavsar**, an aspiring **Data Analyst and Machine Learning Enthusiast** currently pursuing an **Integrated Master of Computer Applications (IMCA)** at **Gujarat Technological University** (Expected 2027).
 
+I am passionate about transforming raw data into meaningful insights that support informed business decisions. I have hands-on knowledge of **Python, SQL, Excel, Power BI, and Machine Learning**, and I enjoy working with data to uncover patterns, build predictive models, and create interactive visualizations.
+
+I have completed my foundational learning in **Machine Learning** and am currently expanding my expertise in **Deep Learning**, exploring neural networks and AI-driven solutions. I continuously enhance my analytical and technical skills through practical projects, problem-solving, and real-world datasets.
+
+My goal is to build impactful, data-driven solutions by combining data analysis, machine learning, and business understanding, while continuously learning and growing in the fields of **Data Science** and **Artificial Intelligence**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.sahilbhavsar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-bhavsar-13ba262b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbhavsar1255@gmail.com) 
